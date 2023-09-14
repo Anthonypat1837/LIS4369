@@ -31,8 +31,7 @@
 
 | *Screenshot of Jupyter Notebook running http://localhost*:  |   | *Screenshot of Jupyter Notebook running http://localhost*:  |   |   |
 |---|---|---|---|---|
-| ![Jupyter Notebook/Lab Screenshot](img/lis4369-A2-1.jpg)  |   | 
-![Jupyter Notebook/Lab Screenshot](img/lis4369-A2-2.jpg)  |   |   |
+| ![Jupyter Notebook/Lab Screenshot](img/lis4369-A2-1.jpg)  |   |  ![Jupyter Notebook/Lab Screenshot](img/lis4369-A2-2.jpg)  |   |   |
 
 
 | *Screenshot of Payroll Calc w/ overtime*: |   |  *Screenshot of Payroll Calc w/o overtime*: |   |   |
