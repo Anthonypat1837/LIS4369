@@ -36,10 +36,8 @@
 
 | *Screenshot of Payroll Calc w/ overtime*: |   |  *Screenshot of Payroll Calc w/o overtime*: |   |   |
 |---|---|---|---|---|
-| ![Jupyter Notebook/Lab Screenshot](img/lis4369-overtime.jpg)  |   |  ![Jupyter Notebook/Lab Screenshot](img/lis4369-no-overtime.jpg)
- |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| ![Jupyter Notebook/Lab Screenshot](img/lis4369-overtime.jpg)  |   |  ![Jupyter Notebook/Lab Screenshot](img/lis4369-no-overtime.jpg) |   |   |
+
 
 
 
