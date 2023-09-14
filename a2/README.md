@@ -3,7 +3,7 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIS4930
+# LIS4369
 
 ## Anthony Patregnani
 
@@ -18,7 +18,7 @@
 #### README.md file should include the following items:
 
 * Screenshot of Assignment 2 application running
-* Link to A2 .ipynb file: [LIS4930-A2.ipynb](LIS4930-A2.ipynb "A2 Jupyter Notebook") 
+* Link to A2 .ipynb file: [LIS4369-A2.ipynb](LIS4369-A2.ipynb "A2 Jupyter Notebook") 
 
 > This is a blockquote.
 > 
@@ -27,29 +27,24 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of Jupyter Notebook running http://localhost*:
 
-![Jupyter Notebook/Lab Screenshot](img/LIS4930-A2-1.jpg)
 
-*Screenshot of Jupyter Notebook running http://localhost*:
+| *Screenshot of Jupyter Notebook running http://localhost*:  |   | *Screenshot of Jupyter Notebook running http://localhost*:  |   |   |
+|---|---|---|---|---|
+| ![Jupyter Notebook/Lab Screenshot](img/lis4369-A2-1.jpg)  |   | 
+![Jupyter Notebook/Lab Screenshot](img/lis4369-A2-2.jpg)  |   |   |
 
-![Jupyter Notebook/Lab Screenshot](img/LIS4930-A2-2.jpg)
 
-*Screenshot of Jupyter Notebook running http://localhost*:
+| *Screenshot of Payroll Calc w/ overtime*: |   |  *Screenshot of Payroll Calc w/o overtime*: |   |   |
+|---|---|---|---|---|
+| ![Jupyter Notebook/Lab Screenshot](img/lis4369-overtime.jpg)  |   |  ![Jupyter Notebook/Lab Screenshot](img/lis4369-no-overtime.jpg)
+ |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
-![Jupyter Notebook/Lab Screenshot](img/LIS4930-A2-3.jpg)
 
-*Screenshot of Jupyter Notebook running http://localhost*:
 
-![Jupyter Notebook/Lab Screenshot](img/LIS4930-A2-4.jpg)
 
-*Screenshot of Jupyter Notebook running http://localhost*:
-
-![Jupyter Notebook/Lab Screenshot](img/LIS4930-A2-5.jpg)
-
-*Screenshot of Jupyter Notebook running http://localhost*:
-
-![Jupyter Notebook/Lab Screenshot](img/LIS4930-A2-6.jpg)
 
 
 

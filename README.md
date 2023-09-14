@@ -16,7 +16,9 @@
     - Provide screenshots of program running on IDLE, VScode, and Jupyter Lab
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - TBD
+    - Backwards engineer Python program
+    - Screenshots of program running on VS Code
+    - Screenshots of program running on Jupyter Lab
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
     - TBD
