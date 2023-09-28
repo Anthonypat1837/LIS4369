@@ -39,9 +39,7 @@
 | ![Jupyter Notebook/Lab Screenshot](img/lis4369-overtime.jpg)  |   |  ![Jupyter Notebook/Lab Screenshot](img/lis4369-no-overtime.jpg) |   |   |
 
 
-
-
-
-
-
+| *Screenshot of running Skillset1*:  |   | *Screenshot of running Skillset2*:  |   | *Screenshot of running Skillset3*:  |
+|---|---|---|---|---|
+|  ![Java SkillSet Screenshot](img/skillset1.jpg) |   | ![Java SkillSet Screenshot](img/skillset2.jpg)  |   | ![Java SkillSet Screenshot](img/skillset3.jpg)  |
 
