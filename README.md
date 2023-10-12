@@ -21,7 +21,9 @@
     - Screenshots of program running on Jupyter Lab
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - TBD
+    - Backwards engineer Pytho Paint Estimation
+    - Provide Screenshots of program running on Jupyter Lab
+    - Provide screenshots of skillset programs running
 
 4. [P1 README.md](p1/README.md "My P1 README.md file")
     - TBD
