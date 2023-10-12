@@ -18,7 +18,7 @@
 #### README.md file should include the following items:
 
 * Screenshot of Assignment 3 application running
-* Link to A3 .ipynb file: [LIS4369-A3.ipynb](lis4369-A3.ipynb "A3 Jupyter Notebook") 
+* Link to A3 .ipynb file: [lis4369-A3.ipynb](lis4369-A3.ipynb "A3 Jupyter Notebook") 
 
 #### Assignment 3 Screenshots:
 
