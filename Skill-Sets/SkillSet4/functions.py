@@ -30,6 +30,11 @@ def calculate_calories(f_grams, c_grams, p_grams):
     calories_from_protein = p_grams * 4
     total_calories = calories_from_fat + calories_from_carbs + calories_from_protein
 
+    percent_fat = calories_from_fat / total_calories
+    percent_carbs = calories_from_carbs / total_calories
+    percent_protein = calories_from_protein / total_calories
+
+
     print("\nOutput: ")
     print("{0:8}{1:>10}{2:>13}".format("Type", "Calories", "Percentage"))
 
