@@ -26,9 +26,9 @@
 
 ![Jupyter Notebook/Lab Screenshot](img/lis4369-p1.gif)
 
-| *Screenshot of running Skillset7*:  |   | *Screenshot of running Skillset8*:  |   | *Screenshot of running Skillset9.1*:  | | *Screenshot of running Skillset9.2*: |
+| *Screenshot of running Skillset7*:  |   | *Screenshot of running Skillset8*:  |   | *Screenshot of running Skillset9.1*:  | *Screenshot of running Skillset9.2*: |
 |---|---|---|---|---|
-|  ![Python SkillSet Screenshot](img/skillset7.jpg) |   | ![Python SkillSet Screenshot](img/skillset8.jpg)  |   | ![Python SkillSet Screenshot](img/skillset9.1.jpg)  | | ![Python SkillSet Screenshot](img/skillset9.2.jpg) | 
+|  ![Python SkillSet Screenshot](img/skillset7.jpg) |   | ![Python SkillSet Screenshot](img/skillset8.jpg)  |   | ![Python SkillSet Screenshot](img/skillset9.1.jpg) | ![Python SkillSet Screenshot](img/skillset9.2.jpg) | 
 
 
 
