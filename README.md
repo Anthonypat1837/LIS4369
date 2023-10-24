@@ -26,7 +26,9 @@
     - Provide screenshots of skillset programs running
 
 4. [P1 README.md](p1/README.md "My P1 README.md file")
-    - TBD
+    - Backwards engineer Python Program using pandas
+    - Provide screenshots/gif of program running on Jupyter Lab, displaying graphs
+    - Provide screenshots of skillset programs running
 
 5. [A4 README.md](a4/README.md "My A4 README.md file")
     - TBD

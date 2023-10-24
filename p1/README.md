@@ -18,25 +18,18 @@
 #### README.md file should include the following items:
 
 * Screenshot of Project 1 application running
-* Link to P1 .ipynb file: [LIS4930-P1.ipynb](LIS4930-P1.ipynb "P1 Jupyter Notebook") 
+* Link to P1 .ipynb file: [lis4369-P1.ipynb](LIS4369-P1.ipynb "P1 Jupyter Notebook") 
 
 #### Project 1 Screenshots:
 
 *Screenshot of Jupyter Notebook running http://localhost*:
 
-![Jupyter Notebook/Lab Screenshot](img/LIS4930-P1-1.jpg)
+![Jupyter Notebook/Lab Screenshot](img/lis4369-p1.gif)
 
-*Screenshot of Jupyter Notebook running http://localhost*:
+| *Screenshot of running Skillset7*:  |   | *Screenshot of running Skillset8*:  |   | *Screenshot of running Skillset9*:  |
+|---|---|---|---|---|
+|  ![Python SkillSet Screenshot](img/skillset7.jpg) |   | ![Python SkillSet Screenshot](img/skillset8.jpg)  |   | ![Python SkillSet Screenshot](img/skillset9.jpg)  |
 
-![Jupyter Notebook/Lab Screenshot](img/LIS4930-P1-2.jpg)
-
-*Screenshot of Jupyter Notebook running http://localhost*:
-
-![Jupyter Notebook/Lab Screenshot](img/LIS4930-P1-3.jpg)
-
-*Screenshot of Jupyter Notebook running http://localhost*:
-
-![Jupyter Notebook/Lab Screenshot](img/LIS4930-P1-4.jpg)
 
 
 
