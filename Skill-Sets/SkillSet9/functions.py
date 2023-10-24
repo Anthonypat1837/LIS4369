@@ -7,52 +7,95 @@ def get_requirements():
           + "4. Replicate display below.\n"
     )
 
-def print_loops():
-    print("1. while loop:")
-    i=1
-    while i<=3:
-        print(i)
-        i=i+1
-
-    print("\n2. for loop using range() function with 1 arg:")
-    for i in range(4):
-        print(i)
+def using_sets():
     
-    print("\n3. for loop using range() function with 2 arg:") 
-    for i in range(1, 4):
-            print(i)
+    print("\nInput: Hard coded-no user input")
+    print()
+    my_set = {1,3.14,2.0,'four','Five'}
+    print("Print my_set created using curly brackets.\n")
+    print(my_set)
 
-    print("\n4. for loop using range() function with 3 arg:")
-    for i in range(1, 4, 2):
-            print(i)
+    print("\nPrint type of my_set:")
+    print(type(my_set))
 
-    print("\n5. for loop using range() function with 3 arg (negative interval):")
-    for i in range(3, 0, -2):
-            print(i)
+    print()
 
-    print("\n6. for loop using implicit list (list not assigned to variable):")
-    for i in [1, 2, 3]:
-            print(i)
+    my_set1 = set([1,3.14,2.0,'four','Five'])
+    print("\nPrint my_set1 created using set() functions with list:\n")
+    print(my_set1)
 
-    print("\n7. for loop iterating through (explicit) string list:")
-    states = ['Michigan', 'Alabama', 'Florida']
-    for state in states:
-          print(state)
+    print()
 
-    print("\n8. for loop using break statement (stops loop):")
-    states = ['Michigan', 'Alabama', 'Florida']
-    for state in states:
-          if state == "Alabama":
-                break
-          print(state)
+    print("\nPrint type of my_set1:")
+    print(type(my_set1))
 
-    print("\n9. for loop using break statement (stops and continues with next):")
-    states = ['Michigan', 'Alabama', 'Florida']
-    for state in states:
-          if state == "Alabama":
-                continue
-          print(state)
+    print()
 
-    print("\n10. print list length:")
-    states = ['Michigan', 'Alabama', 'Florida']
-    print (len(states))
+    my_set2 = set((1,3.14,2.0,'four','Five'))
+    print("\nPrint my_set2 created using set() functions with tuples:\n")
+    print(my_set2)
+
+    print()
+
+    print("\nPrint type of my_set2:")
+    print(type(my_set2))
+
+    print()
+
+    print("\nLength of my_set:")
+    print(len(my_set))
+    print()
+
+    print("\nDiscard 'four':")
+    my_set.discard('four')
+    print(my_set)
+
+    print()
+
+    print("\nRemove 'Five':")
+    my_set.remove('Five')
+    print(my_set)
+
+    print()
+
+    print("\nLength of my_set:")
+    print(len(my_set))
+
+    print()
+
+    print("\nAdd element to set(4) using add() method:")
+    my_set.add(4)
+    print(my_set)
+
+    print()
+
+    print("\nPrint length of my_set:")
+    print(len(my_set))
+
+    print()
+
+    print("\nDisplay minimum number:")
+    print(min(my_set))
+
+    print()
+
+    print("\nDisplay maximum number:")
+    print(max(my_set))
+
+    print()
+
+    print("\nDisplay sum of numbers:")
+    print(sum(my_set))
+
+    print()
+
+    print("\nDelete all set elements:")
+    my_set.clear()
+    print(my_set)
+
+    print()
+
+    print("\nLength of my_set:")
+    print(len(my_set))
+
+    
