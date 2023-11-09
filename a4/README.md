@@ -3,7 +3,7 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIS4930
+# LIS4969
 
 ## Anthony Patregnani
 
@@ -18,25 +18,36 @@
 #### README.md file should include the following items:
 
 * Screenshot of Assignment 4 application running
-* Link to A4 .ipynb file: [LIS4930-A4.ipynb](LIS4930-A4.ipynb "A4 Jupyter Notebook") 
+* Link to A4 .ipynb file: [LIS4369-A4.ipynb](LIS4369-A4.ipynb "A4 Jupyter Notebook") 
 
 #### Assignment 4 Screenshots:
 
-*Screenshot of Jupyter Notebook running http://localhost*:
-
-![Jupyter Notebook/Lab Screenshot](img/LIS4930-A4-1.jpg)
-
-*Screenshot of Jupyter Notebook running http://localhost*:
-
-![Jupyter Notebook/Lab Screenshot](img/LIS4930-A4-2.jpg)
-
-*Screenshot of Jupyter Notebook running http://localhost*:
-
-![Jupyter Notebook/Lab Screenshot](img/LIS4930-A4-3.jpg)
-
-*Screenshot of Jupyter Notebook running http://localhost*:
-
-![Jupyter Notebook/Lab Screenshot](img/LIS4930-A4-4.jpg)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+| *Screenshot of Jupyter Notebook running http://localhost*:  |  *Screenshot of Jupyter Notebook running http://localhost*: | *Screenshot of Jupyter Notebook running http://localhost*:  |   |   |   |
+|---|---|---|---|---|---|
+| ![Jupyter Notebook/Lab Screenshot](img/LIS4369-a4-1.jpg)  |  ![Jupyter Notebook/Lab Screenshot](img/LIS4369-a4-2.jpg) |  ![Jupyter Notebook/Lab Screenshot](img/LIS4369-a4-3.jpg) |   |   |   |
+
+
+| *Screenshot of Jupyter Notebook running http://localhost*:  | *Screenshot of Jupyter Notebook running http://localhost*:  |  *Screenshot of Jupyter Notebook running http://localhost*: |   |   |
+|---|---|---|---|---|
+|  ![Jupyter Notebook/Lab Screenshot](img/LIS4369-a4-4.jpg) | ![Jupyter Notebook/Lab Screenshot](img/LIS4369-a4-5.jpg)  | ![Jupyter Notebook/Lab Screenshot](img/LIS4369-a4-6.jpg)  |   |   |
+
+
+| *Screenshot of running Skillset10*:  |   | *Screenshot of running Skillset11*:  |   | *Screenshot of running Skillset12*:  |
+|---|---|---|---|---|
+|  ![Java SkillSet Screenshot](img/skillset10.jpg) |   | ![Java SkillSet Screenshot](img/skillset11.jpg)  |   | ![Java SkillSet Screenshot](img/skillset12.jpg)  |

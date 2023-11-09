@@ -17,7 +17,7 @@
 
 #### README.md file should include the following items:
 
-* Screenshot of Project 1 application running
+
 * Link to P1 .ipynb file: [lis4369-P1.ipynb](lis4369-P1.ipynb "P1 Jupyter Notebook") 
 
 #### Project 1 Screenshots:
