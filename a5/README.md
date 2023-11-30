@@ -12,35 +12,50 @@
 *Sub-Heading:*
 
 1. Backwards Engineer Python Program
-2. Use Jupyter Notebook/labs to display program
+2. Use RStudio to display program
 3. Provide Screenshots of installation
 
-#### README.md file should include the following items:
-
-* Screenshot of Assignment 5 application running
-* Link to A5 .ipynb file: [LIS4930-A5.ipynb](LIS4930-A5.ipynb "A4 Jupyter Notebook") 
 
 #### Assignment 5 Screenshots:
 
-*Screenshot of Jupyter Notebook running http://localhost*:
+*Screenshot of RStudio Tutorial 4-Panel*:
 
-![Jupyter Notebook/Lab Screenshot](img/LIS4930-A5-1.jpg)
+![Jupyter Notebook/Lab Screenshot](img/tutorial_4_panel_1.jpg)
 
-*Screenshot of Jupyter Notebook running http://localhost*:
+*Screenshot of RStudio Tutorial 4-Panel #2*:
 
-![Jupyter Notebook/Lab Screenshot](img/LIS4930-A5-2.jpg)
+![Jupyter Notebook/Lab Screenshot](img/tutorial_4_panel_2.jpg)
 
-*Screenshot of Jupyter Notebook running http://localhost*:
+*Screenshot of RStudio A5 4-Panel*:
 
-![Jupyter Notebook/Lab Screenshot](img/LIS4930-A5-3.jpg)
+![Jupyter Notebook/Lab Screenshot](img/a5_4_panel.jpg)
 
-*Screenshot of Jupyter Notebook running http://localhost*:
+*Screenshot of RStudio A5 4-Panel*:
 
-![Jupyter Notebook/Lab Screenshot](img/LIS4930-A5-4.jpg)
+![Jupyter Notebook/Lab Screenshot](img/a5_4_panel_2.jpg)
 
-*Screenshot of Jupyter Notebook running http://localhost*:
 
-![Jupyter Notebook/Lab Screenshot](img/LIS4930-A5-5.jpg)
 
+*Screenshot of RStudio A5 Plot*:
+
+![Jupyter Notebook/Lab Screenshot](img/a5_plot_1.jpg)
+
+*Screenshot of RStudio A5 Plot - 2*:
+
+![Jupyter Notebook/Lab Screenshot](img/a5_plot_2.jpg)
+
+*Screenshot of RStudio tutorial Plot*:
+
+![Jupyter Notebook/Lab Screenshot](img/tutorial_plot_1.jpg)
+
+*Screenshot of RStudio tutorial Plot*:
+
+![Jupyter Notebook/Lab Screenshot](img/tutorial_plot_2.jpg)
+
+
+
+| *Screenshot of running Skillset13*:  |   | *Screenshot of running Skillset14*:  |   | *Screenshot of running Skillset15*:  |
+|---|---|---|---|---|
+|  ![Java SkillSet Screenshot](img/skillset13.jpg) |   | ![Java SkillSet Screenshot](img/skillset14.jpg)  |   | ![Java SkillSet Screenshot](img/skillset15.jpg)  |
 
 
