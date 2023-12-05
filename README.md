@@ -31,15 +31,17 @@
     - Provide screenshots of skillset programs running
 
 5. [A4 README.md](a4/README.md "My A4 README.md file")
-    - Backwards engineer Python Program using pandas
+    - Backwards engineer Python Program
     - Provide screenshots/gif of program running on Jupyter Lab, displaying graphs
     - Provide screenshots of skillset programs running
 
 6. [A5 README.md](a5/README.md "My A5 README.md file")
-    - Backwards engineer Python Program using pandas
+    - Backwards engineer Python Program
     - Provide screenshots/gif of program running on RStudio, displaying graphs
     - Provide screenshots of skillset programs running
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - TBD
+    - Backwards engineer Python Program
+    - Provide screenshots/gif of program running on RStudio, displaying graphs
+    - Provide screenshots of skillset programs running
     
