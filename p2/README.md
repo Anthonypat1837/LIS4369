@@ -16,6 +16,10 @@
 3. Provide Screenshots of installation
 
 
+* Link to P2 .R file: [lis4369_p2.R](lis4369_p2.R "P2 RStudio File") 
+
+* Link to P2 output file: [lis4369_output.txt](lis4369_output.txt "P2 output file") 
+
 #### Project 2 Screenshots:
 
 *Screenshot of RStudio P2 4-Panel*:

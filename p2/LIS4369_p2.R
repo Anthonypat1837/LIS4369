@@ -117,7 +117,7 @@ pdf(file="C:/Users/User/repos/lis4369/p2/lis4369_output.pdf")
 
 
 
-
+sink(lis4369_output.txt)
 
 #1.
 
@@ -240,3 +240,5 @@ save.image()
 
 
 dev.off()
+
+sink()
